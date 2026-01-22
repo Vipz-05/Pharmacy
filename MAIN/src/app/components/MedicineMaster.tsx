@@ -134,7 +134,7 @@ export function MedicineMaster() {
     <div className="p-6 space-y-6">
       <div className="flex items-center justify-between">
         <div>
-          <h1>Medicine Master</h1>
+          <h1>Medicines</h1>
           <p className="text-gray-500 mt-1">Manage medicine inventory and details</p>
         </div>
         <Button onClick={handleAdd}>
